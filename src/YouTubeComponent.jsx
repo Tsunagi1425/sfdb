@@ -1,9 +1,10 @@
+import React from 'react';
 import YouTube from 'react-youtube';
 
-const YouTube = () => {
+const YouTubeComponent = () => {
   return (
     <YouTube videoId="xoaLJGyPfNg" />
   );
 }
 
-export default YouTube;
+export default YouTubeComponent;
